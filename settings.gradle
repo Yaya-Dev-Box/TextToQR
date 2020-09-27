@@ -1,0 +1,3 @@
+rootProject.name = 'TextToQR'
+include 'txttoqr'
+
